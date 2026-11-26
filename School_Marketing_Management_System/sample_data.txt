@@ -1,0 +1,15 @@
+Fictional demonstration data only
+
+Student/Lead ID: LEAD001
+Full name: Amina Kamara
+Age: 19
+Programme: Software Engineering
+Phone: 000-000-000
+Interest/source: School open day
+
+Student/Lead ID: LEAD002
+Full name: Ibrahim Sesay
+Age: 21
+Programme: Business Administration
+Phone: 000-000-001
+Interest/source: Social media
